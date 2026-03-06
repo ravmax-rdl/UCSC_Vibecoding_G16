@@ -7,11 +7,14 @@ A hands-on group project from the **University of Colombo School of Computing (U
 ## Repository Structure
 
 ```
-UCSC_Vibe_Day01/
+UCSC_Vibecoding_G16/
 ├── day_01/
-│   ├── index.html       # Student ID card — Day 1 vibe coding output
-│   └── reflection.md    # Prompts used and lessons learned
-├── day_02/              # Day 2 work (in progress)
+│   ├── index.html           # Student ID card — Day 1 vibe coding output
+│   └── reflection.md        # Prompts used and lessons learned
+├── day_02/
+│   ├── grade_calculator.py  # Student grade calculator with input validation and loop
+│   ├── budget_tracker.py    # Monthly budget tracker with expense validation
+│   └── reflection.md        # Prompts used and lessons learned
 └── README.md
 ```
 
@@ -19,18 +22,18 @@ UCSC_Vibe_Day01/
 
 ## Team
 
-| Name             | GitHub       |
-| ---------------- | ------------ |
-| Ravindu Liyanage | `ravmax-rdl` |
-|                  |              |
-|                  |              |
-|                  |              |
-|                  |              |
-|                  |              |
-|                  |              |
-|                  |              |
-|                  |              |
-|                  |              |
+| Name                | GitHub       |
+| ------------------- | ------------ |
+| Sandina             |              |
+| Thulana Gunasekara  |              |
+| Ravindu Liyanage    | `ravmax-rdl` |
+| Ivishan Rathnayake  |              |
+| Nesitha             |              |
+| Chathuri Rajapaksha |              |
+| Dinithi             |              |
+| Nethmi Imasha       |              |
+| Niduka Akalanka     |              |
+| Chaniru             |              |
 
 ---
 
