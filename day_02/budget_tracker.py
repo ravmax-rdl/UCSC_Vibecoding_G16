@@ -11,9 +11,5 @@ print(f"\nTotal Budget:    ${budget:.2f}")
 print(f"Total Expenses:  ${total_expenses:.2f}")
 print(f"Remaining Balance: ${remaining:.2f}")
 
-if remaining < 0:
-    print("Warning: You have exceeded your budget!")
-elif remaining == 0:
-    print("You have used your entire budget.")
-else:
-    print("You are within budget.")
+if remaining < 500:
+    print("Warning: Low Funds")
