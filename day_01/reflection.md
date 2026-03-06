@@ -1,4 +1,4 @@
-# Reflection Report – UCSC Vibe Day 01
+# Reflection Report – Day 01
 
 ## Prompts Used
 
