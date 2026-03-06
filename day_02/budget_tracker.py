@@ -1,6 +1,6 @@
 while True:
     budget_input = input("Enter your total monthly budget (or 'exit' to quit): Rs.")
-    if budget_input.lower() == "exit":
+    if budget_input.lower() == "done":
         print("Goodbye!")
         break
     budget = float(budget_input)
